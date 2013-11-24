@@ -110,4 +110,5 @@ label:hover, #rad2 + label:hover {
 
 input[type="radio"]:checked+label ~ .accslide {
   width: 450px;
+  border:1px dashed #6EDAF7;
 }
